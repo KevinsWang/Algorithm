@@ -27,7 +27,7 @@
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
             },
-            "compilerPath": "C:/Mingw-w64/mingw64/bin/gdb.exe",
+            "compilerPath": "C:/Mingw-w64/mingw64/bin/g++.exe",
             "cStandard": "c11",
             "cppStandard": "c++17",
             "intelliSenseMode": "gcc-x86"
