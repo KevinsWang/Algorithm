@@ -1,8 +1,8 @@
 import os
 
 root = os.getcwd()
-# 133  157 167 184
-n = 143
+# 133  167 184
+n = 192
 
 for i in range(n, n + 1):
     dirpath = root + '\\{}'.format(i)
