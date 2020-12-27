@@ -2,7 +2,7 @@ import os
 
 root = os.getcwd()
 # 133  167 184
-n = 6
+n = 10
 
 for i in range(n, n + 1):
     dirpath = root + '\\{}'.format(i)
